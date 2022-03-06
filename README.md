@@ -4,7 +4,7 @@ aplicaciones con webpack.
 ## Notas
 recuerden construir los modulos de Node
 ```
-npm instal
+npm install
 ```
 y para construir el build recuerden:
 ```
